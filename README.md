@@ -1,2 +1,5 @@
 # py_euler
-project euler problems
+
+https://projecteuler.net/
+
+solutions to some of project euler problems using python

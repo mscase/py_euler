@@ -24,4 +24,4 @@ for x in range(0, 1000):
         total += x
 end = time.time()
 print (total)
-print (f'with loop = {end - start}')
+print (f'for loop = {end - start}')
